@@ -1,4 +1,4 @@
-9/24/2020
+
 
 Software Delivery Cycle or Software Development Life Cycle is a process used by the software industry to design, develop and test high quality software. 
 The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates. 
